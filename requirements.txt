@@ -1,0 +1,4 @@
+git+git://github.com/gallantlab/pycortex.git
+numpy
+scipy
+matplotlib
