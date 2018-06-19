@@ -3,6 +3,8 @@ Biharmonic matrix approximation (BHA) is a sparse method for efficiently represe
 
 <img src="header.png" width="65%">
 
+_Model: [XYZ RGZ Asian Dragon](http://graphics.stanford.edu/data/3Dscanrep/)_
+
 ## Get started
 ```
 pip install -U cython numpy
