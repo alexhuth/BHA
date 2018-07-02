@@ -14,6 +14,13 @@ python bha/test_bha_mesh.py
 ```
 This will install the relevant dependencies (so you might want to do it in a virtual environment!) and run an example.
 
+## Performance Notes
+The best runtime performance results in parallel systems is achieved with scikit-sparse.
+All results in the paper were run with this library.
+```
+pip install -U scikit-sparse
+```
+
 ## Citation
 If you use or extend BHA, please cite the [BHA paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Turek_Efficient_Sparse_Representation_CVPR_2018_paper.pdf):
 
