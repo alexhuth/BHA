@@ -2,7 +2,7 @@ import numpy as np
 import os
 from cortex.polyutils import Surface
 
-from utils import counter
+from bha.utils import counter
 import cortex
 
 
